@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "Eghlp1bnsKNYudz9Hir-U",
+      "type": "text",
+      "x": 521.4000244140625,
+      "y": 64.99995422363281,
+      "width": 349.13812255859375,
+      "height": 50.800018310546875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": null,
+      "seed": 663859561,
+      "version": 44,
+      "versionNonce": 558377385,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1792845030919,
+      "link": null,
+      "locked": false,
+      "text": "Lang Graph notes",
+      "fontSize": 40.6400146484375,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Lang Graph notes",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
